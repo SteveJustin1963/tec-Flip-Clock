@@ -28,3 +28,13 @@ To control a flip clock digitally, some modifications are needed to replace the 
 
 By implementing a digital control system, a flip clock can offer more flexibility, accuracy, and customization compared to traditional electrical control methods. It allows for easier integration with other digital systems and opens up possibilities for additional functionalities.
 
+## example of Forth code 
+that can be used to control a numerical display with six flip discs, representing hexadecimal digits from 0 to F:
+
+`driver1.f` 
+
+In this code, we define constants for the control port addresses of each flip disc and hexadecimal digits from 0 to F. The `FLIP-DISC` word takes two arguments: the value to be displayed (in binary form) and the port address of the corresponding flip disc. It sends the control signal to the specified disc-port to set the flip disc to display the desired value.
+
+The `DISPLAY-HEX` word takes a hexadecimal value and displays it on the flip discs. It extracts each digit using bitwise operations and calls `FLIP-DISC` for each flip disc to display the corresponding digit.
+
+You can customize this code by adjusting the port addresses to match your hardware setup and extend it to handle additional features specific to your numerical display system.
