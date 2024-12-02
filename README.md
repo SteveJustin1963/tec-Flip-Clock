@@ -1,11 +1,16 @@
 # Understanding and Implementing Flip Clocks: A Comprehensive Guide
 
+https://www.flipclockfans.com/forum/forum/general-flip-clock-discussion/flip-clock-discussions/27675-josef-pallweber-inventor-of-flip-clock-and-the-cyclometer
+
+![image](https://github.com/user-attachments/assets/c1f610c7-75be-4e85-95b8-e3467329a3c8)
+![image](https://github.com/user-attachments/assets/eb024dc7-11e7-442e-8377-8a5dfa9b7af5)
 ![image](https://github.com/user-attachments/assets/c8713664-9765-497a-8d04-877a784432b5)
 ![image](https://github.com/user-attachments/assets/40237e72-a966-41fb-a824-087fdc53c933)
 ![image](https://github.com/user-attachments/assets/fd1e721c-9eda-431e-a490-03aa0df53d73)
 ![image](https://github.com/user-attachments/assets/841aab93-755e-47ae-9778-56a3c13b3afa)
 ![image](https://github.com/user-attachments/assets/4b6dfa40-4fe7-48c8-b547-d436f90da38d)
 ![image](https://github.com/user-attachments/assets/0dab453f-2eaa-4c5d-85a1-420576548a53)
+![image](https://github.com/user-attachments/assets/7f217a2f-1c78-4fe9-a4f1-3647dea4f421)
 
 
 
