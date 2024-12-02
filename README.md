@@ -1,5 +1,14 @@
 # Understanding and Implementing Flip Clocks: A Comprehensive Guide
 
+![image](https://github.com/user-attachments/assets/c8713664-9765-497a-8d04-877a784432b5)
+![image](https://github.com/user-attachments/assets/40237e72-a966-41fb-a824-087fdc53c933)
+![image](https://github.com/user-attachments/assets/fd1e721c-9eda-431e-a490-03aa0df53d73)
+![image](https://github.com/user-attachments/assets/841aab93-755e-47ae-9778-56a3c13b3afa)
+![image](https://github.com/user-attachments/assets/4b6dfa40-4fe7-48c8-b547-d436f90da38d)
+![image](https://github.com/user-attachments/assets/0dab453f-2eaa-4c5d-85a1-420576548a53)
+
+
+
 ## Introduction
 A flip clock (also known as a split-flap display or flip-disc display) is a mechanical timekeeping device that displays time through a series of rotating cards or discs. Each card displays a number or character, and the flipping motion reveals the next digit in sequence. This guide covers both traditional mechanical flip clocks and modern digital implementations.
 
